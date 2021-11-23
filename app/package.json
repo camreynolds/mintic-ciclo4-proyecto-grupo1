@@ -1,0 +1,25 @@
+{
+  "name": "grupo1-app",
+  "version": "1.0.0",
+  "description": "Desarrollo de aplicación para control de gases vehiculares.",
+  "main": "scr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camreynolds/mintic-ciclo4-proyecto-grupo1.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "gases",
+    "control"
+  ],
+  "author": "Carlos Muñoz, Jony Carmona, David Benjumea, Álvaro Chamorro, Alfredo Carrascal.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/camreynolds/mintic-ciclo4-proyecto-grupo1/issues"
+  },
+  "homepage": "https://github.com/camreynolds/mintic-ciclo4-proyecto-grupo1#readme"
+}

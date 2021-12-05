@@ -1,4 +1,3 @@
 # ARCHIVOS Y CARPETAS A NO TOMAR EN CUENTA.
-node_moludes/
-package-lock.js
+node_modules/
 .env
